@@ -1,6 +1,8 @@
+// src/app/layout.tsx
+
 export const metadata = {
   title: 'Pejman Chat',
-  description: 'A simple chat with N8N + AI',
+  description: 'A simple AI chat using N8N + Next.js',
 };
 
 export default function RootLayout({
